@@ -37,11 +37,11 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
   </h2>
 
   <ul>
-    <li>💻 I'm a Frontend Developer.</li>
-    <li>🚀 I'm an Industrial Manager.</li>
+    <li>💻 I am a web developer.</li> 
+    <li>🚀 I am a programmer.</li> 
     <li>👨‍👩‍👧‍👧 I like working in a team.</li>
-    <li>🤘🏽🎸 I like classic rock.</li>
-    <li>☕ I love coffee.</li>
+    <li>🤘🏽 I like electronic.</li>
+    <li>☕ I like the adrenaline.</li>
   </ul>
 
   <h2>
