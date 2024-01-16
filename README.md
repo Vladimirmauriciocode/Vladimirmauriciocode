@@ -18,8 +18,8 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
   <div align="top">
     <a href="https://git.io/typing-svg"
       ><img
-        src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=false&random=false&width=435&lines=Vladimir+Arce+I+am+a+senior+technologist+in+software+development." alt="
-                                                  /></a> alt="
+        src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=false&random=false&width=435&lines=Vladimir+Arce+I+am+a+senior+technologist+in+software+development." alt="
+                                                
                                                   
      alt="Typing SVG"
     /></a>
