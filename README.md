@@ -52,7 +52,7 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
   </h2>
 
   <div>
-    <img src="./assets/html.gif" width="50px" />
+    <img src=".https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoding-help.fandom.com%2Fwiki%2FHTML&psig=AOvVaw3ncvikdA08HvgVaWBqNvCz&ust=1705528403700000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD3qMny4oMDFQAAAAAdAAAAABAD" width="50px" />
     <img src="./assets/css.gif" width="50px" />
     <img src="./assets/js.gif" width="50px" />
     <img src="./assets/react.gif" width="50px" />
