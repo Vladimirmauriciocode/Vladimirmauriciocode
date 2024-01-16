@@ -9,7 +9,7 @@ Frontend developer, passionate about creating amazing web applications. I'm alwa
 
 ## Contact
 
-I'm excited to connect with other developers! If you have any questions, suggestions, or just want to chat, you can find me on ✨[LinkedIn](https://www.linkedin.com/in/ale-roses/). I'm open to collaborations and opportunities to continue growing as a frontend developer.
+I'm excited to connect with other developers! If you want to know about it, I invite you to review my profile, as a software developer. 
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. See you soon!
 
