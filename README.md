@@ -73,7 +73,7 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
       href="https://twitter.com/alerxses"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
+        src="https://img.shields.io/badge/vladicode-22092C?style=flat-square&logo=x"
         alt="twitter" />
     </a>
     <a
