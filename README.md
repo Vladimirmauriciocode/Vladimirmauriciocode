@@ -76,13 +76,7 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
         src="https://img.shields.io/badge/vladicode-22092C?style=flat-square&logo=x"
         alt="twitter" />
     </a>
-    <a
-      href="https://www.linkedin.com/in/ale-roses/"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
-        t="linkedin" />
-    </a>
+    
     <a
       href="https://github.com/aleroses"
       target="_blank">
