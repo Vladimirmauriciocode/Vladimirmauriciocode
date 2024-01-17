@@ -78,7 +78,7 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
     </a>
     
     <a
-      href="https://github.com/aleroses"
+      href="https://github.com/Vladimir"
       target="_blank">
       <img
         src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
