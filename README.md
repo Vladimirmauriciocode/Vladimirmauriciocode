@@ -1,92 +1,67 @@
+# 👋 Hi, I'm Vladimir
 
-# Desarrollador de Software Junior | Flutter & Laravel
+💻 Junior Software Developer  
+📍 Ecuador  
 
-Apasionado por el desarrollo de aplicaciones web y móviles. 
-Experiencia en construcción de sistemas CRUD, integración con Firebase y bases de datos MySQL.
+---
 
-Actualmente enfocado en mejorar mis habilidades en desarrollo full stack y arquitectura de aplicaciones.
+## 🚀 About Me
 
-## Technologies
+I am a junior software developer focused on building web and mobile applications.
 
-[![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue.svg)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
+I have experience developing CRUD systems, working with databases, and integrating Firebase in mobile applications.
 
-## Contact
+Currently improving my skills in full stack development and software architecture.
 
-I'm excited to connect with other developers! If you want to know about it, I invite you to review my profile, as a software developer. 
+---
 
-Thank you for visiting my GitHub profile! I hope you find something interesting here. See you soon!
+## 🛠️ Technologies
 
+- Flutter
+- Laravel
+- Firebase / Firestore
+- MySQL
+- PHP
+- JavaScript
+- HTML & CSS
 
-<div>
-  <div align="top">
-    <a href="https://git.io/typing-svg"
-      ><img
-        src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=FALSO&random=FALSO&width=435&lines=Vladimir+Arce+I+am+a+senior+technologist+in+software+development.;How+vexingly+quick+daft+zebras+jump"
+---
+
+## 📌 Featured Projects
+
+### 📱 Zoo Management App (Flutter + Firebase)
+Mobile application to manage animals in a zoo.
+
+- CRUD operations
+- Firebase integration
+- Clean UI with Flutter
+
+---
+
+### 🌐 Web System with Laravel
+Web application using Laravel and MySQL.
+
+- MVC architecture
+- Database management
+- Dynamic forms
+
+---
+
+## 📈 Current Focus
+
+- Improving backend development with Laravel
+- Building full stack applications
+- Preparing for my first developer job
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Vladimirmauriciocode
+
                                          
-       alt="Typing SVG"
-    /></a>
-  </div>
+   
 
-<img
-    align="right"
-    width="260"
-    alt="Shimarin"
-    src="./assets/mf-heavy.gif" />
 
-  <h2>
-    <picture
-      ><img src="./assets/about_me.gif" width="25px"
-    /></picture>
-    / About me /
-  </h2>
-
-  <ul>
-    <li>💻 I am a web developer.</li> 
-    <li>🚀 I am a programmer.</li> 
-    <li>👨‍👩‍👧‍👧 I like working in a team.</li>
-    <li>🤘🏽 I like electronic.</li>
-    <li>☕ I like the adrenaline.</li>
-  </ul>
-
-  <h2>
-    <picture
-      ><img src="./assets/skills.gif" width="25px"
-    /></picture>
-    / Current skills /
-  </h2>
-
-  <div>
-    <img src=".https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoding-help.fandom.com%2Fwiki%2FHTML&psig=AOvVaw3ncvikdA08HvgVaWBqNvCz&ust=1705528403700000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD3qMny4oMDFQAAAAAdAAAAABAD" width="50px" />
-    <img src="./assets/css.gif" width="50px" />
-    <img src="./assets/js.gif" width="50px" />
-    <img src="./assets/react.gif" width="50px" />
-  </div>
-
-<h2>
-  <picture
-    ><img
-      src="./assets/hollor_knight3.gif"
-      width="25px"
-  /></picture>
-  / How to reach me /
-</h2>
-
-<div align="left">
-    <a
-      href="https://twitter.com/alerxses"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/vladicode-22092C?style=flat-square&logo=x"
-        alt="twitter" />
-    </a>
-    
-    <a
-      href="https://github.com/Vladimir"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
-        t="github" />
-    </a>
-    
-  </div>
-</div>
+   
+ 
