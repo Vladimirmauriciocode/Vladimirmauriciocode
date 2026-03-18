@@ -1,7 +1,10 @@
 
-# Hi there, I'm Vladimir Arce 🦁
+# Desarrollador de Software Junior | Flutter & Laravel
 
-Frontend developer, passionate about creating amazing web applications. I'm always exploring new technologies to improve my skills and knowledge. My goal is to become an expert in frontend development and contribute to exciting projects.
+Apasionado por el desarrollo de aplicaciones web y móviles. 
+Experiencia en construcción de sistemas CRUD, integración con Firebase y bases de datos MySQL.
+
+Actualmente enfocado en mejorar mis habilidades en desarrollo full stack y arquitectura de aplicaciones.
 
 ## Technologies
 
